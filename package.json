@@ -1,0 +1,8 @@
+{
+  "name": "Legislative-Tracker",
+  "version": "1.0.0",
+  "description": "Track Legislation",
+  "main": "index.js",
+  "author": "Bartin Peguero",
+  "license": "MIT"
+}
